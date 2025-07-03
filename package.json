@@ -1,0 +1,16 @@
+{
+  "name": "vitest-test-name-issue-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "vitest --run"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "description": "",
+  "devDependencies": {
+    "vitest": "^3.2.4"
+  }
+}
